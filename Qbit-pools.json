@@ -1,11 +1,11 @@
 {
   "pools": [
     {
-      "name": "AllCoinsPool.com",
-      "url": "http://allcoinspool.com/",
-      "api": "http://allcoinspool.com:20101/",
+      "name": "AllCoinsPool",
+      "url": "207.180.194.21/",
+      "api": "http://xxxx:20101/",
       "type": "forknote",
-      "miningAddress": "allcoinspool.com",
+      "miningAddress": "QBC9FvxSfrfN1M8h1MmjKpYuqHTHQarhAh7y3JRkuV3ZeiAcUfe29BdKt2dvLxdAsrjK5zafRApFrKA8hFDptpR261Z6dpRsdi",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
