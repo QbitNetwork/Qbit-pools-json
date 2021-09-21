@@ -11,10 +11,10 @@
     },
     {
       "name": "qbitminer",
-      "url": "https://azpool.win/",
-      "api": "https://Qbit-api.azpool.win/",
+      "url": "https://Qbit.blockapi.money/",
+      "api": "https://blockapi.money/",
       "type": "forknote",
-      "miningAddress": "Qbit-miner.azpool.win",
+      "miningAddress": "Qbit-miner",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
