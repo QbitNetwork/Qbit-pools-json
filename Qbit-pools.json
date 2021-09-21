@@ -11,10 +11,10 @@
     },
     {
       "name": "qbitminer",
-      "url": "https://Qbit.blockapi.money/",
+      "url": "http://207.180.194.21:20101 /",
       "api": "https://blockapi.money/",
       "type": "forknote",
-      "miningAddress": "Qbit-miner",
+      "miningAddress": "QBC9FvxSfrfN1M8h1MmjKpYuqHTHQarhAh7y3JRkuV3ZeiAcUfe29BdKt2dvLxdAsrjK5zafRApFrKA8hFDptpR261Z6dpRsdi",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
