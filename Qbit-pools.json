@@ -9,14 +9,14 @@
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
-     "name": "TurtleTurtle.Club",
+    {
+      "name": "TurtleTurtle.Club",
       "url": "https://pond.turtleturtle.club/",
       "api": "https://pond.turtleturtle.club:8119/",
       "type": "forknote",
       "miningAddress": "pond.turtleturtle.club",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
-    
+    }
   ]
-}
 }
