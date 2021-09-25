@@ -1,11 +1,11 @@
 {
   "pools": [
     {
-      "name": "AllCoinsPool.com",
-      "url": "http://turtlecoinpool.allcoinspool.com/",
-      "api": "http://turtlecoinpool.allcoinspool.com:8117/",
+      "name": "Qbit-miner.com",
+      "url": "http://Qbit-miner.com/",
+      "api": "http://Qbit-miner.com:8117/",
       "type": "forknote",
-      "miningAddress": "turtlecoinpool.allcoinspool.com",
+      "miningAddress": "Qbit-miner.com",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
