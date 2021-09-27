@@ -1,11 +1,11 @@
 {
   "pools": [
     {
-      "name": "Qbit-miner.com",
-      "url": "http://Qbit-miner.com/",
-      "api": "http://Qbit-miner.com:8117/",
+      "name": "Qbitminerpool.com",
+      "url": "http://qbitminerpool.com/",
+      "api": "http://pool.qbitminerpool.com:8117/",
       "type": "forknote",
-      "miningAddress": "Qbit-miner.com",
+      "miningAddress": "qbitminerpool.com",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
