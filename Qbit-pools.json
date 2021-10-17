@@ -2,7 +2,7 @@
   "pools": [
     {
       "name": "qbitminerpool.com",
-      "url": "https://pool.qbitminerpool.com/",
+      "url": "http://qbitcoin.cc/",
       "api": "https://pool.qbitminerpool.com:8119/",
       "type": "forknote",
       "miningAddress": "pool.qbitminerpool.com",
