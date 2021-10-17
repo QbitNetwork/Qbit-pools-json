@@ -3,7 +3,7 @@
     {
       "name": "qbitminerpool.com",
       "url": "https://pool.qbitminerpool.com/",
-      "api": "https://pool.qbitminerpool.com:8117/",
+      "api": "https://pool.qbitminerpool.com:8119/",
       "type": "forknote",
       "miningAddress": "pool.qbitminerpool.com",
       "mergedMining": false,
