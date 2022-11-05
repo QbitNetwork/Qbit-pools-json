@@ -1,14 +1,6 @@
 {
   "pools": [
-    {
-      "name": "qbitminerspool.com",
-      "url": "https://qbitminerspool.com/",
-      "api": "https://qbitminerspool.com:8119/",
-      "type": "forknote",
-      "miningAddress": "qbitminerspool.com",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
+   
     {
       "name": "TurtleTurtle.Club",
       "url": "https://pond.turtleturtle.club/",
