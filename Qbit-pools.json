@@ -19,9 +19,9 @@
       "mergedMiningIsParentChain": false
     },
      {
-      "name": "TurtleTurtle.Club",
+      "name": "pool.2acoin.org",
       "url": "https://pool.2acoin.org/",
-      "api": "https://pool.2acoin.org/",
+      "api": "https://pool.2acoin.org:19761/",
       "type": "forknote",
       "miningAddress": "us-central.2acoin.org",
       "mergedMining": false,
