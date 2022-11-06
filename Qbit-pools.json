@@ -1,11 +1,11 @@
 {
   "pools": [
     {
-      "name": "",
-      "url": "https://pond.tur/",
-      "api": "https://pond.tu/",
+      "name": "qbitminerspool.com",
+      "url": "https://qbitminerspool.com/",
+      "api": "https://qbitminerspool.com:8119/",
       "type": "forknote",
-      "miningAddress": "pond.tur",
+      "miningAddress": "144.91.116.226:8117/",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
