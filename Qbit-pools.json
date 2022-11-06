@@ -1,6 +1,14 @@
 {
   "pools": [
-   
+    {
+      "name": "",
+      "url": "https://pond.tur/",
+      "api": "https://pond.tu/",
+      "type": "forknote",
+      "miningAddress": "pond.tur",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
     {
       "name": "TurtleTurtle.Club",
       "url": "https://pond.turtleturtle.club/",
@@ -9,6 +17,16 @@
       "miningAddress": "pond.turtleturtle.club",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
+    },
+     {
+      "name": "TurtleTurtle.Club",
+      "url": "https://pool.2acoin.org/",
+      "api": "https://pool.2acoin.org/",
+      "type": "forknote",
+      "miningAddress": "us-central.2acoin.org",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
     }
   ]
 }
+https://pool.2acoin.org/
