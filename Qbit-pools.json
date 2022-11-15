@@ -19,11 +19,11 @@
       "mergedMiningIsParentChain": false
     },
      {
-      "name": "pool-ro.derogold4ever.online",
-      "url": "https://pool-ro.derogold4ever.online/",
-      "api": "https://pool-ro.derogold4ever.online//",
+      "name": "null",
+      "url": "null",
+      "api": "",
       "type": "forknote",
-      "miningAddress": "pool-ro.derogold4ever.online",
+      "miningAddress": "null",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
