@@ -19,11 +19,11 @@
       "mergedMiningIsParentChain": false
     },
      {
-      "name": "null",
-      "url": "null",
+      "name": "ravenpool.ninja",
+      "url": "https://ravenpool.ninja/",
       "api": "",
       "type": "forknote",
-      "miningAddress": "null",
+      "miningAddress": "stratum.ravenpool.ninja",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
