@@ -35,6 +35,15 @@
       "miningAddress": "us-central.2acoin.org",          
       "mergedMining": false,
       "mergedMiningIsParentChain": false
+    },
+    {
+      "name": "ryo-currency",
+      "url":  "https://pool.ryo-currency.com/",
+      "api": "",
+      "type": "forknote",
+      "miningAddress": "pool.ryo-currency.com",          
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
     }
   ]
 }
