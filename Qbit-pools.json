@@ -19,11 +19,20 @@
       "mergedMiningIsParentChain": false
     },
      {
+      "name": "pool-ro.derogold4ever.online",
+      "url": "https://pool-ro.derogold4ever.online/",
+      "api": "https://pool-ro.derogold4ever.online//",
+      "type": "forknote",
+      "miningAddress": "pool-ro.derogold4ever.online",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+     {
       "name": "pool.2acoin.org",
       "url": "https://pool.2acoin.org/",
       "api": "https://pool.2acoin.org:19761/",
       "type": "forknote",
-      "miningAddress": "us-central.2acoin.org",
+      "miningAddress": "us-central.2acoin.org",          
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
