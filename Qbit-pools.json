@@ -5,7 +5,7 @@
       "url": "https://qbitminerspool.com/",
       "api": "https://qbitminerspool.com:8119/",
       "type": "forknote",
-      "miningAddress": "144.91.116.226:8117/",
+      "miningAddress": "qbitminerspool.com/",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
